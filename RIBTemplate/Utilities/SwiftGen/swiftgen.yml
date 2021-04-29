@@ -1,0 +1,27 @@
+strings:
+  inputs: ../../Resources/en.lproj/Localizable.strings
+  outputs:
+    templateName: flat-swift5
+    output: Strings.swift
+xcassets:
+  inputs: ../../Resources/Assets.xcassets
+  outputs:
+    templateName: swift5
+    output: Assets.swift    
+ib:
+  inputs: ../../Resources/Storyboards
+  outputs:
+    - templateName: scenes-swift5
+      output: StoryboardScenes.swift
+    - templateName: segues-swift5
+      output: StoryboardSegues.swift
+# colors:
+#   inputs: ../../../Resources/Colors.json
+#   outputs:
+#     templateName: swift4
+#     output: Colors.swift
+# fonts:
+#   inputs: ../../../Resources/Fonts
+#   outputs:
+#     templateName: swift4
+#     output: Fonts.swift

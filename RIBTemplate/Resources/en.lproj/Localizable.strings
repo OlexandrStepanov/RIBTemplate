@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  RIBTemplate
+
+  Created by Oleksandr Stepanov on 27.04.2021.
+  
+*/
+
+"general_yes_button" = "Yes";
+"general_no_button" = "No";
+"general_ok_button" = "Ok";
+"general_back_button" = "Back";
+"general_cancel_button" = "Cancel";
+"general_error_title" = "Sorry, there's been an error";
+"general_operation_cancelled" = "Operation has been canceled";
+"general_areYouSure_text" = "Are you sure?";
+"general_tryAgain_button" = "Try again";
+"general_done_button" = "Done";
+
+"network_error_no_connection" = "Uh-oh. No internet connection.";
+"network_error_general" = "Sorry, something went wrong. Please try again later.";
+"network_error_authorization_failed" = "Sorry, authorization failed. Please logout and login again.";
