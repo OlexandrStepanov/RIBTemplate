@@ -9,7 +9,7 @@ xcassets:
     templateName: swift5
     output: Assets.swift    
 ib:
-  inputs: ../../Resources/Storyboards
+  inputs: ../../Resources
   outputs:
     - templateName: scenes-swift5
       output: StoryboardScenes.swift
